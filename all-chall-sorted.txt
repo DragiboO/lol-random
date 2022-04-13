@@ -1,0 +1,83 @@
+0	"Le back ? non non, tu rentre à pieds 😁", //1
+
+1       "A chaque mort, tu t'endete de 500 gold", //2
+2       "A chaque mort, tu t'endete de 1000 gold",
+3       "A chaque mort, tu t'endete de 1500 gold",
+
+4       "Tu veut acheter un items ? Tu devras le revendre avant", //3
+
+5       "Des morceaux d'items ça existe pas, seulement les complets", //4
+6       "C'est la crise, seul les composants d'items sont dans tes moyens",
+
+7       "Les objets mythiques, connais pas", //5
+
+8       "Chaque mort(s) tu zoomeras de 1 cran de molette", //6
+
+9       "Tu n'apprendras pas ton A", //7
+10      "Tu n'apprendras pas ton Z", 
+11      "Tu n'apprendras pas ton E", 
+
+12      "Tu n'apprendras pas ton R", //8
+13      "Tu es impulsif, ton R doit etre en permanence en cooldown si possible (tu doit obligatoirement l'apprendre)",
+
+14      "Tu n'as le droit de monter un sort que tout les 2 niveaux (Au niveau 1 tu n'as pas sort)", //9
+15      "Tu es con, tu peut monter tes sorts seulement quand tu a 2 points disponible (et tu devras les mettres dans le meme sort)",
+        
+16      "Le niveau de tes sorts sont restreints à 4", //10
+17      "Le niveau de tes sorts sont restreints à 3",
+
+18      "Pour les AD first items GA, et les AP ça sera un Zhonia", //11
+19      "Tu es triste, tu achete une larme (mais tu la garde, pas le droit de l'évoluer)",
+20      "Tu es seul, l'amour de ta vie ta quitté, ton coeur est gélé (Tu achete un coeur gelé en first item)",
+21      "Tu as péché mon enfant, tu es condamnée à l'anathème (Tu achète chaîne de l'anathème en first item)",
+22      "Tu es un sculpteur hors paire, tu te fabrique toi meme ton armure (tu achete un lithoplastron de gargouille en first item)",
+
+23      "Tu te transforme en africain, tu n'as pas le droit d'acheter de bottes", //12
+24      "Bottes de mobilité obligatoire pour tout le monde",
+25      "Bottes du berzerk obligatoire pour tout le monde",
+26      "Chaussures de sorcier obligatoire pour tout le monde",15:09 13/04/2022
+
+27      "A chaque que tu passe par la base, il doit y avoir en permanence 5 potions et 2 pinks", //13
+28      "A chaque que tu passe par la base, il doit y avoir en permanence 5 potions",
+29      "A chaque que tu passe par la base, il doit y avoir en permanence 2 pinks",
+
+30      "La nature des champions s'inverse, les ADs deviennent des magiciens et les APs des barbares sanguins", //14
+31      "Tu cosplay ton personnage preféré dans l'equipe ennemis, tu build le même stuff",
+
+32      "La foret est trop effrayante, seul la rivière pourras te guidée", //15
+
+33      "La midlane est corrompue, elle est devenue innaccessible", //15 //16
+
+34      "Il y a eu un eboulement sur la toplane, elle est devenue innaccessible", //16
+35      "Une terrible malédiction s'est abbatue sur la botlane, elle est devenue innaccessible",
+
+36      "Un dieu apparait, il s'agit du 1er champion de l'ecran de chargment, il est immortel (interdit de le tué)", //17
+37      "Un dieu apparait, il s'agit du 2eme champion de l'ecran de chargment, il est immortel (interdit de le tué)",
+38      "Un dieu apparait, il s'agit du 3eme champion de l'ecran de chargment, il est immortel (interdit de le tué)",
+39      "Un dieu apparait, il s'agit du 4eme champion de l'ecran de chargment, il est immortel (interdit de le tué)",
+40      "Un dieu apparait, il s'agit du 5eme champion de l'ecran de chargment, il est immortel (interdit de le tué)",
+        
+41      "Les tourelles du top sont invincibles (Interdictions de les taper)", //18
+42      "Les tourelles du mid sont invincibles (Interdictions de les taper)",
+43      "Les tourelles du bot sont invincibles (Interdictions de les taper)",
+
+44      "Ta barre espace est casser ! Caméra lock pour tout le monde", //19
+
+45      "Challenge 0 Cs, tout les 15 cs tu doit mourrir a tes risques et périls", //20
+
+46      "Tu es une frousarde, les creeps t'emmenent sur ta voie", //21
+
+47      "Surexcité, tu utilise tes summoner spells dès que possible", //22
+
+48      "Combo n°1 : Smite et Téléportation", //23
+49      "Combo n°2 : Ghost et Purge",
+50      "Combo n°3 : Heal et Ignite",
+51      "Combo n°4 : Exhaust et Barrière",
+52      "Combo n°5 : Exhaust et Téléportation",
+53      "Combo n°6 : Flash et Barrière",
+54      "Combo n°7 : Smite et Ghost",
+55      "Combo n°8 : Heal et Purge",
+56      "Combo n°9 : Ignite et Ghost",
+57      "Combo n°10 : Flash et Rien (tu n'utilise pas le 2è summoner, sinon tu vend un item complet)",
+
+58      "Les duo laner ne doivent pas etre égoïste, ils doivent tout les deux participé a chaque éliminations, sinon le duo est crash (imposibilité d'éffectué n'importe quelle actions pendant 15 secondes)", //24
