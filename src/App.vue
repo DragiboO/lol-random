@@ -274,13 +274,13 @@ export default {
       list_of_challenge_restricted : [],
 
       challenge : [
-        "Le back ? non non, tu rentre à pieds 😁", //1
+        "Le back ? non non, tu rentres à pieds 😁", //1
 
-        "A chaque mort, tu t'endete de 500 gold", //2
-        "A chaque mort, tu t'endete de 1000 gold",
-        "A chaque mort, tu t'endete de 1500 gold",
+        "A chaque mort, tu t’endettes de 500 gold", //2
+        "A chaque mort, tu t’endettes de 1000 gold",
+        "A chaque mort, tu t’endettes de 1500 gold",
 
-        "Tu veut acheter un items ? Tu devras le revendre avant", //3
+        "Tu veux acheter un items ? Tu devras le revendre avant", //3
 
         "Des morceaux d'items ça existe pas, seulement les complets", //4
         "C'est la crise, seul les composants d'items sont dans tes moyens",
@@ -294,56 +294,56 @@ export default {
         "Tu n'apprendras pas ton E", 
 
         "Tu n'apprendras pas ton R", //8
-        "Tu es impulsif, ton R doit etre en permanence en cooldown si possible (tu doit obligatoirement l'apprendre)",
+        "Tu es impulsif, ton R doit être en permanence en cooldown si possible (tu dois obligatoirement l'apprendre)",
 
         "Tu n'as le droit de monter un sort que tout les 2 niveaux (Au niveau 1 tu n'as pas sort)", //9
-        "Tu es con, tu peut monter tes sorts seulement quand tu a 2 points disponible (et tu devras les mettres dans le meme sort)(Tu peut prendre un sort au niveau 1 puis la règle s'applique)",
+        "Tu es con, tu peux monter tes sorts seulement quand tu as 2 points disponible (et tu devras les mettre dans le même sort) (Tu peux prendre un sort au niveau 1 puis la règle s'applique)",
         
-        "Le niveau de tes sorts sont restreints à 4", //10
-        "Le niveau de tes sorts sont restreints à 3",
+        "Le niveau de tes sorts est restreint à 4", //10
+        "Le niveau de tes sorts est restreint à 3",
 
         "Pour les AD first items GA, et les AP ça sera un Zhonia", //11
-        "Tu es triste, tu achete une larme (mais tu la garde, pas le droit de l'évoluer)",
-        "Tu es seul, l'amour de ta vie ta quitté, ton coeur est gélé (Tu achete un coeur gelé en first item)",
-        "Tu as péché mon enfant, tu es condamnée à l'anathème (Tu achète chaîne de l'anathème en first item)",
-        "Tu es un sculpteur hors paire, tu te fabrique toi meme ton armure (tu achete un lithoplastron de gargouille en first item)",
+        "Tu es triste, tu achètes une larme (mais tu la garde, pas le droit de l'évoluer)",
+        "Tu es seul, l'amour de ta vie ta quitté, ton cœur est gelé (Tu achètes un cœur gelé en first item)",
+        "Tu as péché mon enfant, tu es condamné à l'anathème (Tu achète chaîne de l'anathème en first item)",
+        "Tu es un sculpteur hors pair, tu te fabrique toi même ton armure (tu achètes un lithoplastron de gargouille en first item)",
 
         "Tu te transforme en africain, tu n'as pas le droit d'acheter de bottes", //12
         "Bottes de mobilité obligatoire pour tout le monde",
         "Bottes du berzerk obligatoire pour tout le monde",
-        "Chaussures de sorcier obligatoire pour tout le monde",
+        "Tu deviens David Copperfield, chaussures de sorcier obligatoire pour tout le monde",
 
-        "A chaque fois que tu passe par la base, tu repart avec 5 potions et 2 pinks", //13
-        "A chaque fois que tu passe par la base, tu repart avec 5 potions",
-        "A chaque fois que tu passe par la base, tu repart avec 2 pinks",
+        "A chaque fois que tu passes par la base, tu repars avec 5 potions et 2 pinks", //13
+        "A chaque fois que tu passes par la base, tu repars avec 5 potions",
+        "A chaque fois que tu passes par la base, tu repars avec 2 pinks",
 
         "La nature des champions s'inverse, les ADs deviennent des magiciens et les APs des barbares sanguins", //14
-        "Tu cosplay ton personnage preféré dans l'équipe ennemie, tu build le même stuff",
+        "Tu cosplay ton personnage préféré dans l'équipe ennemie, tu build le même stuff",
 
-        "La foret est trop effrayante, seul la rivière pourras te guidée", //15
+        "La forêt est trop effrayante, seule la rivière pourra te guider", //15
 
-        "La midlane est corrompue, elle est devenue innaccessible", //15 //16
+        "La midlane est corrompue, elle est devenue inaccessible", //15 //16
 
-        "Il y a eu un eboulement sur la toplane, elle est devenue innaccessible", //16
-        "Une terrible malédiction s'est abbatue sur la botlane, elle est devenue innaccessible",
+        "Il y a eu un éboulement sur la toplane, elle est devenue inaccessible", //16
+        "Une terrible malédiction s'est abattue sur la botlane, elle est devenue inaccessible",
 
-        "Un dieu apparait, il s'agit du 1er champion de l'ecran de chargment, il est immortel (interdit de le tué)", //17
-        "Un dieu apparait, il s'agit du 2eme champion de l'ecran de chargment, il est immortel (interdit de le tué)",
-        "Un dieu apparait, il s'agit du 3eme champion de l'ecran de chargment, il est immortel (interdit de le tué)",
-        "Un dieu apparait, il s'agit du 4eme champion de l'ecran de chargment, il est immortel (interdit de le tué)",
-        "Un dieu apparait, il s'agit du 5eme champion de l'ecran de chargment, il est immortel (interdit de le tué)",
+        "Un dieu apparaît, il s'agit du 1er champion de l’écran de chargement, il est immortel (interdit de le tuer)", //17
+        "Un dieu apparaît, il s'agit du 2ème champion de l’écran de chargement, il est immortel (interdit de le tuer)",
+        "Un dieu apparaît, il s'agit du 3ème champion de l’écran de chargement, il est immortel (interdit de le tuer)",
+        "Un dieu apparaît, il s'agit du 4ème champion de l’écran de chargement, il est immortel (interdit de le tuer)",
+        "Un dieu apparaît, il s'agit du 5ème champion de l’écran de chargement, il est immortel (interdit de le tuer)",
         
         "Les tourelles du top sont invincibles (Interdictions de les taper)", //18
         "Les tourelles du mid sont invincibles (Interdictions de les taper)",
         "Les tourelles du bot sont invincibles (Interdictions de les taper)",
 
-        "Ta barre espace est casser ! Caméra lock pour tout le monde", //19
+        "Ta barre espace est cassée ! Caméra lock pour tout le monde", //19
 
-        "Challenge 0 Cs, tout les 15 cs tu doit mourrir a tes risques et périls", //20 //18
+        "Challenge 0 Cs, tous les 15 cs tu dois mourir à tes risques et périls", //20 //18
 
-        "Tu es une frousarde, les creeps t'emmenent sur ta voie", //21
+        "Tu es une froussarde, les creeps t’emmènent sur ta voie", //21
 
-        "Surexcité, tu utilise tes summoner spells dès que possible", //22
+        "Surexcité, tu utilises tes summoner spells dès que possible", //22
 
         "Combo n°1 : Smite et Téléportation", //23
         "Combo n°2 : Ghost et Purge",
@@ -354,9 +354,9 @@ export default {
         "Combo n°7 : Smite et Ghost",
         "Combo n°8 : Heal et Purge",
         "Combo n°9 : Ignite et Ghost",
-        "Combo n°10 : Flash et Rien (tu n'utilise pas le 2è summoner, sinon tu vend un item complet)",
+        "Combo n°10 : Flash et Rien (tu n'utilise pas le 2ème summoner, sinon tu vends un item complet)",
 
-        "Les duo laner ne doivent pas etre égoïste, ils doivent tout les deux participé a chaque éliminations, sinon le duo crash (imposibilité d'éffectué n'importe quelle actions pendant 15 secondes)", //24
+        "Les duo laner ne doivent pas être égoïste, ils doivent tous les deux participer à chaque éliminations, sinon le duo crash (impossibilité d’effectuer n'importe quelle action pendant 15 secondes)", //24
         ],
     }
   },
