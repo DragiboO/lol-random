@@ -1,7 +1,7 @@
 <template>
   <section>
     <div class="top">
-      <h1>Random Challenge Gameplay</h1>
+      <h1>RCG* Lol</h1>
     </div>
 
     <div class="game-setup">
